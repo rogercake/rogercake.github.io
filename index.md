@@ -8,6 +8,6 @@
 <img src="images/bike_rental.jpg?raw=true"/>
 
 ---
-[Employee Absenteeism](/pdf/Project Employee Absenteeism_Final_Report.doc)
+[Employee Absenteeism](/pdf/Workplace absenteeism.pdf)
 <img src="images/employee absenteeism.jpg?raw=true"/>
 
