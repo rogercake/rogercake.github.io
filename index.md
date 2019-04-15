@@ -4,7 +4,7 @@
 
 ### Data Science Project
 
-[Employee Absenteeism](/sample_page)
+[Employee Absenteeism](/pdf/Employee Absenteeism_Final_Report.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
