@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Data Science Project
 
-[Project 1 Title](/sample_page)
+[Employee Absenteeism](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Bike Rental](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
