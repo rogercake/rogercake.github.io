@@ -1,11 +1,11 @@
 title: Sameer Pandey # your name (or website title) here
 logo: "/images/cover_logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm a fresher data scientist.
+  Aspiring Data Scientist
   <br><br>
-  Expertise in R,Python,SQL,Tableau
+  Machine Learning | R | Python | SQL | Tableau | NLP
   <br><br>
   <a href="https://www.linkedin.com/in/sameer-pandey-923023128/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+
 
